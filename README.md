@@ -1,12 +1,4 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-  <h1 style="border: none;">
-    Be The Hero
-  </h1>
-
-  <div>
-    <img src="https://imgur.com/VB8Zpj4.png" alt="Be The hero" />
-  </div>
-</div>
+<h1 align="center"><img src="https://imgur.com/VB8Zpj4.png" alt="Be The hero" /></h1>
 
 <h3 align="center">
   Cadastre sua ONG, poste seus casos e encontre heróis para ajudar na sua causa!
