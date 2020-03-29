@@ -1,10 +1,14 @@
-<h1 align="center"><img src="https://imgur.com/VB8Zpj4.png" alt="Be The hero" /></h1>
+<p align="center">
+  <img src="https://imgur.com/VB8Zpj4.png" align="center" alt="Be The hero" />
+</p>
+
+<br/>
 
 <h3 align="center">
   Cadastre sua ONG, poste seus casos e encontre heróis para ajudar na sua causa!
 </h3>
 
-<hr>
+<br/>
 
 # Visão geral
 
